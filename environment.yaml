@@ -1,0 +1,20 @@
+name: 'sentiment'
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - matplotlib>=3.2.2
+  - scikit-learn>=1.0
+  - pandas>=1.3.*
+  - requests>=2.24.0
+  - graphviz
+  - python-graphviz
+  #- torchvision  
+  - jinja2
+  - pip
+  - lightgbm
+  - xgboost
+  - pip:
+    - mglearn
+    - psutil>=5.7.2

@@ -1,3 +1,3 @@
 # disaster_tweets
 
-This project aims to predict the real disaters from tweets. 
+This project aims to predict the real disasters from tweets. 

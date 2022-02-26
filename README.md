@@ -1,3 +1,3 @@
 # disaster_tweets
 
-This repo aims to predict the occurance of real disasters based on tweets. 
+This repo predicts the occurance of real disasters based on tweets. 
